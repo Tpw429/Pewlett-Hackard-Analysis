@@ -6,6 +6,6 @@
 
 ![EmployeeDB](EmployeeDB.png)
 
-### Based off these common connections between the data sheets, it was clear that the datasets could be combined to help answer the retirement question. 
+### Based off these common connections between the data sheets, it was clear that the datasets could be combined to help answer the retirement question within the company.
 
 ## Results
