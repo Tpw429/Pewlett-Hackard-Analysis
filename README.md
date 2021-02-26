@@ -14,5 +14,6 @@
 
 ![Retirement Titles](Data/retirement_titles.PNG)
 
+### Unfortunately, this table is not perfect. In fact, we see that some of the same employees are repeated twice, when they should only be shown once. This might've happened because of a job title switch over the years. To combat this problem, I used the DISTINCT ON method to retrieve only the first occurence of the employee number.
 
 
