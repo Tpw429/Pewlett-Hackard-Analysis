@@ -21,3 +21,5 @@
 ### The next step I took towards completing this assingment was determining the amount of people who would be retiring from each department. First, I ran a counter on the number of each title from the unique titles table. Then I spliced each title with the counter to create the retiring titles table shown below. This table shows the number of people from each job title due to retire soon. 
 
 ![Retiring Titles](Data/retiring_titles.PNG)
+
+Next, I created a table which found the number of employees eligible to work the mentorship program. I looked for employees who were born between January 1st 1965 and December 31st 1965 to fill the mentorship program. I combined the "Employees" and the "Department Employees" tables to create my "Mentorship Eligibity" table.
