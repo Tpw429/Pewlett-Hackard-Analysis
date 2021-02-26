@@ -22,4 +22,6 @@
 
 ![Retiring Titles](Data/retiring_titles.PNG)
 
-Next, I created a table which found the number of employees eligible to work the mentorship program. I looked for employees who were born between January 1st 1965 and December 31st 1965 to fill the mentorship program. I combined the "Employees" and the "Department Employees" tables to create my "Mentorship Eligibity" table.
+Next, I created a table which found the number of employees eligible to work the mentorship program. I looked for employees who were born between January 1st 1965 and December 31st 1965 to fill the mentorship program. I combined the "Employees" and the "Department Employees" tables to create my "Mentorship Eligibity" table. The employees eligible for the mentorship program can be found in the table directly below.
+
+![Mentorship Eligibility](Data/mentorship_eligibility.PNG)
