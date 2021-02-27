@@ -38,5 +38,5 @@ A solution to supplying more mentors to the mentorship program is to expand the 
 
 One thing I think is very important to look at is the total number of employees that fall in betweem the 1960-1970 date of birth range. The table above showed the difference in years. However, the table attached below will highlight the total number of employees that are eligible to help out in the mentorship program by expanding our age range from being born in 1960-1970.
 
-![Mentorship Number from 1960 to 1970](Data/mentorship67.PNG.PNG)
+![Mentorship Number from 1960 to 1970](Data/mentorship67.PNG)
 
