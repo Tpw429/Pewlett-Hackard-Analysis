@@ -14,7 +14,7 @@ Based off these common connections between the data sheets, it was clear that th
 
 ![Retirement Titles](Data/retirement_titles.PNG)
 
-- Unfortunately, this table is not perfect. In fact, we see that some of the same employees are repeated twice, when they should only be shown once. This might've happened because of a job title switch over the years. To combat this problem, I used the DISTINCT ON method to retrieve only one occurence of the employee number and took variation with the most recent job title date. The reults of this new edited version of the potential retiree candidates is shown below.
+- Unfortunately, this table is not perfect. In fact, we see that some of the same employees are repeated twice, when they should only be shown once. This might've happened because of a job title switch over the years. To combat this problem, I used the DISTINCT ON method to retrieve only one occurence of the employee number and took the variation with the most recent job title date. The results of this new edited version of the potential retiree candidates is shown below.
 
 ![Unique Titles](Data/unique_titles.PNG)
 
