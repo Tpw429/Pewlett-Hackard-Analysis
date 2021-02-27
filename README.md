@@ -40,3 +40,4 @@ One thing I think is very important to look at is the total number of employees 
 
 ![Mentorship Number from 1960 to 1970](Data/mentorship67.PNG)
 
+By expanding our age criteria to be a mentor to 1960 to 1970, the number of available mentors shoots up to 93,756 as shown in the figure above. This is important because it means that the company will be able to provice one mentor for each new employee. This would mean that the company is no longer being stretched to teach and mentor its newly hired employees. 
