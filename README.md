@@ -33,3 +33,5 @@ Unfortunately, the number of qualified employees born in 1965 for the mentorship
 
 A solution to supplying more mentors to the mentorship program is to expand the date of birth accepted to qualify for the program. Since our total number of qualified employees for the mentorship was so low (only 1,549), it is clear we need to make a change to get more people into the program. One solution I think is reasonable is to expand the age range of people who qualify to lead. I propose that we switch the acceptable date of birth to between 1960-1970. By editing my mentorship_eligibility date restriction, tons of new ready to teach mentors are available to help out.
 
+mentorship6070.PNG
+![Mentorship Eligibility from 1960 to 1970](Data/mentorship6070.PNG)
