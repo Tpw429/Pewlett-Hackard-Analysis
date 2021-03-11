@@ -10,7 +10,7 @@ Based off these common connections between the data sheets, it was clear that th
 
 ## Results
 
-- In the first challenge to this problem set, I looked for employees in the company that were born between 1952 and 1955. I spliced the "Employees" and "Titles" tables together to form a retirement title table. The results of this table are shown below. 
+- In the first challenge to this problem set, I looked for employees in the company that were born between 1952 and 1955. I spliced the "Employees" and "Titles" tables together to form a retirement title table. The results of this table were formed from my sql query and are shown below. 
 
 ![Retirement Titles](Data/retirement_titles.PNG)
 
